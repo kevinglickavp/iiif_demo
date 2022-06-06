@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://amp.dlib.indiana.edu/rest/primaryfiles/1017/media.json",
+    "id": "https://raw.githubusercontent.com/AudiovisualMetadataPlatform/iiif_demo/main/charles_webb_manifest.json",
     "type": "Manifest",
     "label": {
         "en": [
